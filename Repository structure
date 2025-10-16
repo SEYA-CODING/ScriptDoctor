@@ -1,0 +1,19 @@
+ScriptDoctor/
+├─ fxmanifest.lua
+├─ README.md
+├─ LICENSE
+├─ config.lua
+├─ server/
+│  └─ main.lua
+├─ client/
+│  └─ main.lua
+├─ lib/
+│  ├─ file_utils.lua
+│  └─ repair_engine.lua
+└─ examples/
+   ├─ sample_esx_resource/
+   │   ├─ fxmanifest.lua
+   │   └─ broken_client.lua
+   └─ sample_qbcore_resource/
+       ├─ fxmanifest.lua
+       └─ broken_client.lua
